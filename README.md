@@ -28,4 +28,4 @@ A simple, interactive calculator built in Python that supports the basic arithme
 
    Clone the repository:
    ```bash
-   git clone https://github.com/GreatyBlue/Python-Calculator.git
+   git clone https://github.com/GreatyBlue/Python-Calculatot.git
